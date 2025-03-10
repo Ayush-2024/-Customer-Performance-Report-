@@ -19,7 +19,7 @@
 - Improved the accuracy and reliability of financial reports, contributing to more informed business strategies.
 
 ### **How to Use**
-1. **Download** the project files.
+1. 📂 **Download Dataset:** [Click Here]([your_google_drive_link](https://drive.google.com/file/d/1JY63YpdhLVelNtBUATad25PPn1Gfdr8u/view?usp=sharing))
 2. Open the Excel file and enable **macros** (if needed).
 3. Explore the interactive **PivotTables** and **charts** to analyze sales data.
 
